@@ -13,6 +13,8 @@ yarn.lock
 remote-repo/
 coverage/
 .module-cache
+.composer/
+.npm/
 fixtures/dom/public/react-dom.js
 fixtures/dom/public/react.js
 test/the-files-to-test.generated.js
@@ -25,6 +27,10 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+save.txt
+generatepasswd.png
+package-lock.json
+composer.lock
 package-lock.json
 
 packages/react-devtools-core/dist

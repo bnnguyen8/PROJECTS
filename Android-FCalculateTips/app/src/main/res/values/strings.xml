@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculate Tips</string>
+    <string name="base">Bill Total:</string>
+    <string name="billAmount">0.00</string>
+    <string name="canAcceptable">Acceptable</string>
+    <string name="tip">Tip:</string>
+    <string name="total">Total:</string>
+    <string name="tipCalculator">Tip Calculator</string>
+</resources>
